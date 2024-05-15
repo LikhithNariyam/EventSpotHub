@@ -1,13 +1,13 @@
-# Tokenmaster
+# EventSpotHUb
 
 ## Technology Stack & Tools
 
-- Solidity (Writing Smart Contracts & Tests)
-- Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
-- [MetaMask](https://metamask.io/)
+- **Solidity:** Used for writing Smart Contracts & Tests.
+- **Javascript:** Utilized for React development & Testing.
+- **Hardhat:** Chosen as the Development Framework.
+- **Ethers.js:** Facilitating Blockchain Interaction.
+- **React.js:** Employed as the Frontend Framework.
+- **MetaMask:** Required for browser-based blockchain interactions.
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/). Recommended to use the LTS version.
